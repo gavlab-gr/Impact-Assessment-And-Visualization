@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<research>
+<full>
+<paper>
+<title>Graphics and visualization: Principles &amp; algorithms</title>
+<author>T Theoharis</author>
+<author> G Papaioannou</author>
+<author> N Platis</author>
+<author> NM Patrikalakis</author>
+<journal>CRC Press</journal>
+<year>2008</year>
+</paper>
+<citations>
+<paper>
+<title>PANORAMA: A 3D shape descriptor based on panoramic views for unsupervised 3D object retrieval</title>
+<author>P Papadakis</author>
+<author>I Pratikakis</author>
+<author>T Theoharis</author>
+<author> </author>
+<journal> - International Journal of  , 2010 - Springer</journal>
+</paper>
+<paper>
+<title>Automatic 3D Facial Region Retrieval from Multi-pose Facial Datasets.</title>
+<author>P Perakis</author>
+<author>T Theoharis</author>
+<author>G Passalis</author>
+<author>IA Kakadiaris</author>
+<author> </author>
+<journal> - 3DOR, 2009 - researchgate.net</journal>
+</paper>
+<paper>
+<title>Rosy+: 3d object pose normalization based on pca and reflective object symmetry with application in 3d object retrieval</title>
+<author>K Sfikas</author>
+<author>T Theoharis</author>
+<author>I Pratikakis</author>
+<author> </author>
+<journal> - International Journal of Computer  , 2011 - Springer</journal>
+</paper>
+<paper>
+<title>3D object partial matching using panoramic views</title>
+<author>K Sfikas</author>
+<author>I Pratikakis</author>
+<author>A Koutsoudis</author>
+<author> </author>
+<journal> - New Trends in Image  , 2013 - Springer</journal>
+</paper>
+<paper>
+<title>3D object retrieval via range image queries based on SIFT descriptors on panoramic views</title>
+<author>K Sfikas</author>
+<author>I Pratikakis</author>
+<author>T Theoharis</author>
+<author> </author>
+<journal> - Proceedings of the 5th Eurographics  , 2012 - dl.acm.org</journal>
+</paper>
+<paper>
+<title>3D object retrieval via range image queries in a bag-of-visual-words context</title>
+<author>K Sfikas</author>
+<author>T Theoharis</author>
+<author>I Pratikakis</author>
+<author> </author>
+<journal> - The Visual Computer, 2013 - Springer</journal>
+</paper>
+<paper>
+<title>glGA: an OpenGL Geometric Application framework for a modern, shader-based computer graphics curriculum</title>
+<author>G Papagiannakis</author>
+<author>P Papanikolaou </author>
+<journal>, P Papanikolaou - Eurographics  , 2014 - george.papagiannakis.org</journal>
+</paper>
+<paper>
+<title>HS-Patch: A New Hermite Smart Bicubic Patch Modification</title>
+<author>V Skala</author>
+<author> M Smolik </author>
+<author> L Karlicek </author>
+<author> V Ondracka </author>
+<journal>, M Smolik, L Karlicek, V Ondracka - submitted for publication, 2013 - naun.org</journal>
+</paper>
+<paper>
+<title>A new user-friendly visual environment for breast MRI data analysis</title>
+<author>D Antonios </author>
+<author>T Theoharis</author>
+<author>VA Dimitrios</author>
+<journal> Computer methods and programs  , 2013  Elsevier</journal>
+</paper>
+<paper>
+<title>Constraint-free topological mapping and path planning by maxima detection of the kernel spatial clearance density</title>
+<author>P Papadakis</author>
+<author>M Gianni</author>
+<author>M Pizzoli</author>
+<author>F Pirri</author>
+<author> </author>
+<journal> - International Conference on  , 2012 - hal.inria.fr</journal>
+</paper>
+<paper>
+<title>S-clip E 2: a new concept of clipping algorithms</title>
+<author>V Skala</author>
+<author> </author>
+<journal> - SIGGRAPH Asia 2012 Posters, 2012 - dl.acm.org</journal>
+</paper>
+<paper>
+<title>Evaluation of Adaptive Subdivision Method on Mobile Device</title>
+<author>MSM Rahim</author>
+<author>SAM Isa </author>
+<author>A Rehman </author>
+<author>T Saba </author>
+<journal>, SAM Isa, A Rehman, T Saba - 3D Research, 2013 - Springer</journal>
+</paper>
+<paper>
+<title>Knot visualization experiments for verifiable molecular movies</title>
+<author>J Li</author>
+<author> TJ Peters</author>
+<author> KE Jordan </author>
+<journal> arXiv preprint arXiv:1304.5641, 2013  arxiv.org</journal>
+</paper>
+<paper>
+<title>Bivariate fractal interpolation surfaces: Theory and applications</title>
+<author>V Drakopoulos</author>
+<author> P Manousopoulos </author>
+<journal> International Journal of  , 2012  World Scientific</journal>
+</paper>
+<paper>
+<title>Visualisation of complex flows using texture-based techniques</title>
+<author>DJ Warne</author>
+<author> J Young</author>
+<author> NA Kelson </author>
+<journal> ANZIAM Journal, 2013  journal.austms.org.au</journal>
+</paper>
+<paper>
+<title>A hybrid method for computing the intersection and tangency points of plane curves</title>
+<author>D Christou</author>
+<author> A Danelakis</author>
+<author> M Mitrouli </author>
+<journal> Applied Mathematics and  , 2012  Elsevier</journal>
+</paper>
+<paper>
+<title>Interactive diffuse global illumination discretization methods for dynamic environments</title>
+<author>AG Gaitatzes</author>
+<journal> 2012  lekythos.library.ucy.ac.cy</journal>
+</paper>
+<paper>
+<title>RENDERING TERRAIN ON MOBILE DEVICES USING ADAPTIVE SUBDIVISION METHOD: DESIGN CONSIDERATION</title>
+<author>SAM Isa </author>
+<author>MSM Rahim</author>
+<journal> icts.if.its.ac.id</journal>
+</paper>
+<paper>
+<title>Navigated Ultrasound Imaging: 3D Reconstruction of Artery Geometry and Flow</title>
+<author>Y Karabiyik </author>
+<journal> 2013  diva</journal>
+</paper>
+<paper>
+<title>New Concepts on Two-Dimensional Data Visualization With Applications in Engineering Analysis and Design</title>
+<author>PA Simionescu</author>
+<author>M Mehrubeoglu </author>
+<journal>, M Mehrubeoglu - Journal of  , 2012 -  .asmedigitalcollection.asme.org</journal>
+</paper>
+<paper>
+<title>3D model retrieval based on linear prediction coding in cylindrical and spherical projections using SVM-OSS</title>
+<author>V Mehrdad</author>
+<author> H Ebrahimnezhad </author>
+<journal> Multimedia Tools and Applications, 2014  Springer</journal>
+</paper>
+<paper>
+<title>Estimation of Skin Optical Parameters for Real-Time Hyperspectral Imaging Applications using GPGPU Parallel Computing</title>
+<author>A Bjrgan </author>
+<journal> 2013  diva</journal>
+</paper>
+<paper>
+<title>Partial matching of 3D cultural heritage objects using panoramic views</title>
+<author>K Sfikas</author>
+<author>I Pratikakis</author>
+<author>A Koutsoudis</author>
+<author> </author>
+<journal> - Multimedia Tools and  , 2014 - Springer</journal>
+</paper>
+<paper>
+<title>3D Navigation with Six Degrees-of-Freedom using a Multi-Touch Display</title>
+<author>FR Ortega</author>
+<journal> - 2014 - franciscoraulortega.com</journal>
+</paper>
+<paper>
+<title>Incremental loading of terrain textures</title>
+<author>E Fikkan </author>
+<journal> 2013  diva</journal>
+</paper>
+<paper>
+<title>A New Approach to Line�Sphere and Line�Quadrics Intersection Detection and Computation</title>
+<author>V Skala</author>
+<journal> - herakles.zcu.cz</journal>
+</paper>
+<paper>
+<title>Desarrollo de Videojuegos: Programacion Grafica</title>
+<author>C Gonzalez</author>
+<author> J Albusac</author>
+<author> S Perez </author>
+<journal> books.google.com</journal>
+</paper>
+<paper>
+<title>MSc Course Proposal</title>
+<author>G Papagiannakis </author>
+<journal> 2011  csd.uoc.gr</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Fast Ray-Tetrahedron Intersection Using Plucker Coordinates</title>
+<author>N Platis</author>
+<author> T Theoharis</author>
+<journal>Journal of graphics tools 8 (4). 37-48</journal>
+<year>2003</year>
+</paper>
+<citations>
+<paper>
+<title>Mesh-based Monte Carlo method using fast ray-tracing in Pl�cker coordinates</title>
+<author>Q Fang</author>
+<journal> - Biomedical optics express, 2010 - opticsinfobase.org</journal>
+</paper>
+<paper>
+<title>Interactive volume rendering with ray tracing</title>
+<author>G Marmitt</author>
+<author> H Friedrich </author>
+<journal> Eurographics State of the  , 2006  webdocs.cs.ualberta.ca</journal>
+</paper>
+<paper>
+<title>Fast ray traversal of tetrahedral and hexahedral meshes for direct volume rendering</title>
+<author>G  </author>
+<author>P Slusallek</author>
+<journal> Proceedings of the Eighth Joint Eurographics/ , 2006  dl.acm.org</journal>
+</paper>
+<paper>
+<title>A study on tetrahedron-based inhomogeneous Monte Carlo optical simulation</title>
+<author>H Shen</author>
+<author>G Wang</author>
+<author> </author>
+<journal> - Biomedical optics express, 2011 - opticsinfobase.org</journal>
+</paper>
+<paper>
+<title>Recent advancements in ray-tracing based volume rendering techniques</title>
+<author>G Marmitt </author>
+<author>P Slusallek</author>
+<author>H Friedrich</author>
+<journal> Proceedings of 10th International Fall  , 2005  Citeseer</journal>
+</paper>
+<paper>
+<title>Efficient CPU&#8208;based Volume Ray Tracing Techniques</title>
+<author>G Marmitt</author>
+<author>P Slusallek</author>
+<author>H Friedrich</author>
+<journal> Computer Graphics Forum, 2008  Wiley Online Library</journal>
+</paper>
+<paper>
+<title>Comment on �A study on tetrahedron-based inhomogeneous Monte-Carlo optical simulation�</title>
+<author>Q Fang</author>
+<journal> - Biomedical optics express, 2011 - opticsinfobase.org</journal>
+</paper>
+<paper>
+<title>A brain surgery simulator</title>
+<author>G Echegaray</author>
+<author> I Herrera</author>
+<author> I Aguinaga </author>
+<journal> Computer Graphics  , 2014  ieeexplore.ieee.org</journal>
+</paper>
+<paper>
+<title>Study of a ray casting technique for the visualization of deformable volumes</title>
+<author>I Herrera </author>
+<author>C Buchart</author>
+<author>D Borro</author>
+<journal> 2013  ieeexplore.ieee.org</journal>
+</paper>
+<paper>
+<title>TIM&#8208;OS: A General Monte Carlo Opcal Simulator for Biomedical Opcs</title>
+<author>H Shen</author>
+<author>G Wang</author>
+<journal> - imaging.sbes.vt.edu</journal>
+</paper>
+<paper>
+<title>New approach for absolute fluence distribution calculations in Monte Carlo simulations of light propagation in turbid media</title>
+<author>C B�cklin</author>
+<author>J Fr�hlich</author>
+<author>D Baumann</author>
+<journal> Journal of Applied Physics, 2014  scitation.aip.org</journal>
+</paper>
+<paper>
+<title>Fast Ray Traversal of Tetrahedral and Hexahedral Meshes for Direct Volume Rendering</title>
+<author>T Ertl</author>
+<author> K Joy</author>
+<author> B Santos </author>
+<journal> graphics.cg.unisaarland.de</journal>
+</paper>
+<paper>
+<title>Volumetric Visualization Techniques of Rigid and Deformable Models for Surgery Simulation</title>
+<author>IH Asteasu </author>
+<journal> 2013  diglib.eg.org</journal>
+</paper>
+<paper>
+<title>Interactive volume ray tracing</title>
+<author>G Marmitt </author>
+<journal> 2009  scidok.sulb.uni</journal>
+</paper>
+<paper>
+<title>Technical Report Fast Ray Traversal of Unstructured Volume Data using Plucker Tests</title>
+<author>G Marmitt </author>
+<author>P Slusallek</author>
+<journal> graphics.cs.unisb.de</journal>
+</paper>
+<paper>
+<title>Robust Tracking and Advanced Geometry for Monte Carlo Radiation Transport</title>
+<author>BM Smith </author>
+<journal> 2011  icf4.neep.wisc.edu</journal>
+</paper>
+<paper>
+<title>A Full 3D GPU-Based Beam Tracing Method for Complex Indoor Environments Propagation Modelling</title>
+<author>J Tan</author>
+<author> Z Su</author>
+<author> Y Long </author>
+<journal> ieeexplore.ieee.org</journal>
+</paper>
+<paper>
+<title>[C]</title>
+<author>T Ernst </author>
+<journal> 2009</journal>
+</paper>
+<paper>
+<title>Modelling light propagation in Tissue</title>
+<author>C B�cklin </author>
+<journal> 2014  e</journal>
+</paper>
+<paper>
+<title>I Simulatori in realt� virtuale: un ausilio nella formazione chirurgica</title>
+<author>MG Esposito </author>
+<journal> 2010  art.torvergata.it</journal>
+</paper>
+<paper>
+<title>[C]</title>
+<author>N Di Lorenzo</author>
+<author> AL Gaspari</author>
+<author> MG Esposito </author>
+<journal> 2010</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Necessary and sufficient conditions for some two variable orthogonal designs in order 36</title>
+<author>C Koukouvinos</author>
+<author> N Platis</author>
+<author> J Seberry</author>
+<journal></journal>
+<year>1996</year>
+</paper>
+<citations>
+<paper>
+<title>Handbook of combinatorial designs</title>
+<author>CJ Colbourn </author>
+<author>JH Dinitz</author>
+<journal> 2006  books.google.com</journal>
+</paper>
+<paper>
+<title>Hadamard matrices, orthogonal designs and construction algorithms</title>
+<author>S Georgiou</author>
+<author>C Koukouvinos</author>
+<author>J Seberry</author>
+<journal> - Designs 2002, 2003 - Springer</journal>
+</paper>
+<paper>
+<title>New orthogonal designs and sequences with two and three variables in order 28</title>
+<author>C Koukouvinos</author>
+<author>J Seberry</author>
+<journal> - Faculty of Informatics-Papers, 2000 - ro.uow.edu.au</journal>
+</paper>
+<paper>
+<title>Some new three and four variable orthogonal designs in order 36</title>
+<author>C Koukouvinos</author>
+<journal> - Journal of statistical planning and inference, 1998 - Elsevier</journal>
+</paper>
+<paper>
+<title>New two-variable full orthogonal designs and related experiments with linear regression models</title>
+<author>SD Georgiou</author>
+<journal> - Statistics &amp; probability letters, 2007 - Elsevier</journal>
+</paper>
+<paper>
+<title>When the necessary conditions are not sufficient: sequences with zero autocorrelation function</title>
+<author>J Horton</author>
+<author>J Seberry</author>
+<journal> 1999  ro.uow.edu.au</journal>
+</paper>
+<paper>
+<title>Necessary and sufficient conditions for three and four variable orthogonal designs in order 36</title>
+<author>S Georgiou</author>
+<author>C Koukouvinos</author>
+<author> M Mitrouli </author>
+<journal> M Mitrouli - Journal of statistical  , 2002 - Elsevier</journal>
+</paper>
+<paper>
+<title>When the necessary conditions are not suficient: sequences with zero autocorrelation function</title>
+<author>J rey Horton </author>
+<author>J Seberry</author>
+<journal> Citeseer</journal>
+</paper>
+<paper>
+<title>[C]</title>
+<author>J Horton </author>
+<author>J Seberry</author>
+<journal> Bulletin of the Institute of Combinatorics and Its  , 1999  The Institute</journal>
+</paper>
+<paper>
+<title>CHARLES J. COLBOURN</title>
+<author>JH DINITZ</author>
+<journal> - 1996 - uow.edu.au</journal>
+</paper>
+<paper>
+<title>Boolean functions, Hadamard matrices, orthogonal designs applicable to security and communication</title>
+<author>T Xia </author>
+<journal> 2001  ro.uow.edu.au</journal>
+</paper>
+<paper>
+<title>31 Orthogonal Designs</title>
+<author>J SEBERRY</author>
+<author> R CRAIGEN </author>
+<journal> R CRAIGEN - CRC Handbook of Combinatorial  , 2010 - books.google.com</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Simplification of vector fields over tetrahedral meshes</title>
+<author>N Platis</author>
+<author> T Theoharis</author>
+<journal>Computer Graphics International. 2004. Proceedings. 174-181</journal>
+<year>2004</year>
+</paper>
+<citations>
+<paper>
+<title>A Delaunay simplification algorithm for vector fields</title>
+<author>TK Dey</author>
+<author>JA Levine</author>
+<author> R Wenger </author>
+<journal> R Wenger - Computer Graphics and  , 2007 - ieeexplore.ieee.org</journal>
+</paper>
+<paper>
+<title>Hi�rarchisation et visualisation multir�solution de r�sultats issus de codes de simulation</title>
+<author>F Vivodtzev </author>
+<journal> 2005  tel.archives</journal>
+</paper>
+<paper>
+<title>Multiresolution Techniques for the Simplification of Triangular and Tetrahedral Meshes</title>
+<author>N Platis</author>
+<journal> - cgi.di.uoa.gr</journal>
+</paper>
+<paper>
+<title>Delaunay Methods for Approximating Geometric Domains</title>
+<author>JA Levine</author>
+<journal> - 2009 - rave.ohiolink.edu</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Progressive Hulls for Intersection Applications</title>
+<author>N Platis</author>
+<author> T Theoharis</author>
+<journal>Computer Graphics Forum 22 (2). 107-116</journal>
+<year>2003</year>
+</paper>
+<citations>
+<paper>
+<title>Progressive Hulls: Application on Biomedical Data</title>
+<author>D Cholt </author>
+<journal> cescg.org</journal>
+</paper>
+<paper>
+<title>[C]</title>
+<author>N Di Lorenzo</author>
+<author> AL Gaspari</author>
+<author> MG Esposito </author>
+<journal> 2010</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Airline Deregulation, Competitive Environment and Safety</title>
+<author>A Papatheodorou</author>
+<author> N Platis</author>
+<journal>Rivista di Politica Economica 97 (1). 221-242</journal>
+<year>2007</year>
+</paper>
+<citations>
+<paper>
+<title>The Supply of Tourism Services: Hospitality, Transport, Attractions</title>
+<author>G Candela </author>
+<author>P Figini</author>
+<journal> The Economics of Tourism Destinations, 2012  Springer</journal>
+</paper>
+<paper>
+<title>Economic Rationale for Licensing Tour Guides in Poland</title>
+<author>A Pawlicz</author>
+<journal> - Tourism in Southern and Eastern Europe, 2013 - papers.ssrn.com</journal>
+</paper>
+<paper>
+<title>Production in Tourism</title>
+<author>G Candela </author>
+<author>P Figini</author>
+<journal> The Economics of Tourism Destinations, 2012  Springer</journal>
+</paper>
+<paper>
+<title>Ekologia jako podstawa innowacyjnego produktu hotelarskiego</title>
+<author>A Pawlicz</author>
+<author>M Sidorkiewicz</author>
+<author> </author>
+<journal> - 2013 - depot.ceon.pl</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>An Integration Framework for CORBA Objects</title>
+<author>A Ramfos</author>
+<author> R Busse</author>
+<author> N Platis</author>
+<author> P Fankhauser</author>
+<journal>Journal of Integrated Design &amp; Process Science 3 (1). 27-41</journal>
+<year>1999</year>
+</paper>
+<citations>
+<paper>
+<title>Bio-AXS: Uma Arquitetura para Integra��o de Fontes de Dados e Aplica��es de Biologia Molecular</title>
+<author>LFB Seibel </author>
+<journal> 2000  uniriotec.br</journal>
+</paper>
+<paper>
+<title>Using an object reference approach to distributed updates</title>
+<author>D Kambur </author>
+<author>M Roantree</author>
+<journal> Database and Expert Systems  , 2007  Springer</journal>
+</paper>
+<paper>
+<title>Objektorientierte Sichten zur Integration statisch getypter Objektbanken</title>
+<author>R Busse </author>
+<journal> 2004  tuprints.ulb.tu</journal>
+</paper>
+<paper>
+<title>Komposition von XML Dataflows zur Integration heterogener WWW-Informationsdienste</title>
+<author>J Henkel </author>
+<author> I Macherius </author>
+<author>P Fankhauser</author>
+<journal> 2000  www</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Triangular mesh simplification on the GPU</title>
+<author>A Papageorgiou</author>
+<author> N Platis</author>
+<journal>The Visual Computer. 1-10</journal>
+<year>2013</year>
+</paper>
+<citations>
+<paper>
+<title>Optimizaci�n y paralelizaci�n de un algoritmo de generaci�n de Skeletons a partir de mallas geom�tricas aplicado a estructuras biol�gicas</title>
+<author>IY Rojas Hern�ndez </author>
+<journal> 2014  tesis.uchile.cl</journal>
+</paper>
+</citations>
+</full>
+<full>
+<paper>
+<title>Towards a learning analytics platform for supporting the educational process</title>
+<author>G Lepouras</author>
+<author> A Katifori</author>
+<author> C Vassilakis</author>
+<author> A Antoniou</author>
+<author> N Platis</author>
+<journal>Information. Intelligence. Systems and Applications. IISA 2014. The 5th ...</journal>
+<year>2014</year>
+</paper>
+<citations>
+</citations>
+</full>
+<full>
+<paper>
+<title>GraphViz and C++-The Boost Graph Library (BGL) is a great way to use Graph Viz to draw directed and undirected graphs of your data structures.</title>
+<author>N Platis</author>
+<author> M Tsoukalos</author>
+<journal>C/C++ Users Journal. 38-43</journal>
+<year>2005</year>
+</paper>
+<citations>
+</citations>
+</full>
+<full>
+<citations>
+</citations>
+</full>
+</research>

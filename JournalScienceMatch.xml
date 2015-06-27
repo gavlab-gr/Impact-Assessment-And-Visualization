@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<research>
+<journal>
+<title> - International Journal of Computer  , 2011 - Springer</title>
+	<science category="natural science">
+			<field category="computer science">
+			</field>
+	</science>	
+</journal>
+
+<journal>
+<title> - New Trends in Image  , 2013 - Springer</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="image processing">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Proceedings of the 5th Eurographics  , 2012 - dl.acm.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - The Visual Computer, 2013 - Springer</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>, P Papanikolaou - Eurographics  , 2014 - george.papagiannakis.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Computer methods and programs  , 2013  Elsevier</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - International Conference on  , 2012 - hal.inria.fr</title>
+<science category="natural science">
+	<field category="computer science">	
+	</field>
+	<field category="mathematics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - SIGGRAPH Asia 2012 Posters, 2012 - dl.acm.org</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>, SAM Isa, A Rehman, T Saba - 3D Research, 2013 - Springer</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> arXiv preprint arXiv:1304.5641, 2013  arxiv.org</title>
+<science category="natural science">
+	<field category="mathematics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> ANZIAM Journal, 2013  journal.austms.org.au</title>
+<science category="natural science">
+	<field category="mathematics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Applied Mathematics and  , 2012  Elsevier</title>
+<science category="natural science">
+	<field category="mathematics">
+		<subfield category="applied mathematics">
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> icts.if.its.ac.id</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Multimedia Tools and Applications, 2014  Springer</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Multimedia Tools and  , 2014 - Springer</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - 2014 - franciscoraulortega.com</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> 2011  csd.uoc.gr</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>Journal of graphics tools 8 (4). 37-48</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Biomedical optics express, 2010 - opticsinfobase.org</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+	<field category="physics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Eurographics State of the  , 2006  webdocs.cs.ualberta.ca</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Proceedings of the Eighth Joint Eurographics/ , 2006  dl.acm.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Biomedical optics express, 2011 - opticsinfobase.org</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+	<field category="physics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Computer Graphics Forum, 2008  Wiley Online Library</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Computer Graphics  , 2014  ieeexplore.ieee.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> 2013  ieeexplore.ieee.org</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - imaging.sbes.vt.edu</title>
+<science category="natural science">
+	<field category="life science">
+	</field>
+	<field category="computer science">
+	</field>
+	<field category="physics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Journal of Applied Physics, 2014  scitation.aip.org</title>
+<science category="natural science">
+	<field category="physics">
+		<subfield category="applied physics">
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> graphics.cg.unisaarland.de</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> 2013  diglib.eg.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> graphics.cs.unisb.de</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> ieeexplore.ieee.org</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Faculty of Informatics-Papers, 2000 - ro.uow.edu.au</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Journal of statistical planning and inference, 1998 - Elsevier</title>
+<science category="natural science">
+	<field category="statistics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Statistics &amp; probability letters, 2007 - Elsevier</title>
+<science category="natural science">
+	<field category="statistics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> 1999  ro.uow.edu.au</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+<science category="human science">
+	<field category="archeology">
+	</field>
+</science>
+<science category="social science">
+	<field category="economics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> M Mitrouli - Journal of statistical  , 2002 - Elsevier</title>
+<science category="natural science">
+	<field category="statistics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Bulletin of the Institute of Combinatorics and Its  , 1999  The Institute</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+	<field category="mathematics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> R CRAIGEN - CRC Handbook of Combinatorial  , 2010 - books.google.com</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+	<field category="mathematics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>Computer Graphics International. 2004. Proceedings. 174-181</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> R Wenger - Computer Graphics and  , 2007 - ieeexplore.ieee.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>Computer Graphics Forum 22 (2). 107-116</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - cgi.di.uoa.gr</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> cescg.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>Rivista di Politica Economica 97 (1). 221-242</title>
+<science category="social science">
+	<field category="politics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> The Economics of Tourism Destinations, 2012  Springer</title>
+<science category="social science">
+	<field category="ecomomics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> - Tourism in Southern and Eastern Europe, 2013 - papers.ssrn.com</title>
+<science category="social science">
+	<field category="economics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>Journal of Integrated Design &amp; Process Science 3 (1). 27-41</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> 2000  uniriotec.br</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+	<field category="mathematics">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> Database and Expert Systems  , 2007  Springer</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="information systems">
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> 2004  tuprints.ulb.tu</title>
+<science category="natural science">
+	<field category="computer science">
+	</field>
+</science>
+</journal>
+
+<journal>
+<title> cescg.org</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computer methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>The Visual Computer. 1-10</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="computing methodologies">
+			<subsubfield category="computer graphics">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+<journal>
+<title>Information. Intelligence. Systems and Applications. IISA 2014. The 5th ...</title>
+<science category="natural science">
+		<field category="computer science">
+			<subfield category="computing methodologies">
+			</subfield>
+		</field>
+</science>
+</journal>
+
+<journal>
+<title>C/C++ Users Journal. 38-43</title>
+<science category="natural science">
+	<field category="computer science">
+		<subfield category="software">
+			<subsubfield category="programming languages">
+			</subsubfield>
+		</subfield>
+	</field>
+</science>
+</journal>
+
+</research>
